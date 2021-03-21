@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="DISPLAY_NOTIFICATION_POPUP" value="false" />
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="ProjectId" id="1pFw235LorJZ3cm1dENNVADQpEy" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT&#10;JShellLanguage" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunManager" selected="Application.PercolationStats">
+    <configuration name="Percolation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Percolation" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PercolationStats" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PercolationStats" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Percolation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614804148331">
+      <screen x="0" y="25" width="1680" height="979" />
+    </state>
+    <state x="304" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.979@0.25.1680.979" timestamp="1614804148331" />
+    <state width="1680" height="343" key="GridCell.Tab.0.bottom" timestamp="1615304598564">
+      <screen x="0" y="25" width="1680" height="979" />
+    </state>
+    <state width="1680" height="343" key="GridCell.Tab.0.bottom/0.25.1680.979@0.25.1680.979" timestamp="1615304598564" />
+    <state width="1680" height="343" key="GridCell.Tab.0.center" timestamp="1615304598563">
+      <screen x="0" y="25" width="1680" height="979" />
+    </state>
+    <state width="1680" height="343" key="GridCell.Tab.0.center/0.25.1680.979@0.25.1680.979" timestamp="1615304598563" />
+    <state width="1680" height="343" key="GridCell.Tab.0.left" timestamp="1615304598563">
+      <screen x="0" y="25" width="1680" height="979" />
+    </state>
+    <state width="1680" height="343" key="GridCell.Tab.0.left/0.25.1680.979@0.25.1680.979" timestamp="1615304598563" />
+    <state width="1680" height="343" key="GridCell.Tab.0.right" timestamp="1615304598564">
+      <screen x="0" y="25" width="1680" height="979" />
+    </state>
+    <state width="1680" height="343" key="GridCell.Tab.0.right/0.25.1680.979@0.25.1680.979" timestamp="1615304598564" />
+    <state width="1680" height="343" key="GridCell.Tab.1.bottom" timestamp="1615304598565">
+      <screen x="0" y="25" width="1680" height="979" />
+    </state>
+    <state width="1680" height="343" key="GridCell.Tab.1.bottom/0.25.1680.979@0.25.1680.979" timestamp="1615304598565" />
+    <state width="1680" height="343" key="GridCell.Tab.1.center" timestamp="1615304598565">
+      <screen x="0" y="25" width="1680" height="979" />
+    </state>
+    <state width="1680" height="343" key="GridCell.Tab.1.center/0.25.1680.979@0.25.1680.979" timestamp="1615304598565" />
+    <state width="1680" height="343" key="GridCell.Tab.1.left" timestamp="1615304598565">
+      <screen x="0" y="25" width="1680" height="979" />
+    </state>
+    <state width="1680" height="343" key="GridCell.Tab.1.left/0.25.1680.979@0.25.1680.979" timestamp="1615304598565" />
+    <state width="1680" height="343" key="GridCell.Tab.1.right" timestamp="1615304598565">
+      <screen x="0" y="25" width="1680" height="979" />
+    </state>
+    <state width="1680" height="343" key="GridCell.Tab.1.right/0.25.1680.979@0.25.1680.979" timestamp="1615304598565" />
+    <state x="349" y="150" key="SettingsEditor" timestamp="1614804582561">
+      <screen x="0" y="25" width="1680" height="979" />
+    </state>
+    <state x="349" y="150" key="SettingsEditor/0.25.1680.979@0.25.1680.979" timestamp="1614804582561" />
+    <state x="402" y="247" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1614954244675">
+      <screen x="0" y="25" width="1680" height="979" />
+    </state>
+    <state x="402" y="247" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1680.979@0.25.1680.979" timestamp="1614954244675" />
+    <state x="505" y="240" width="670" height="676" key="search.everywhere.popup" timestamp="1615300854670">
+      <screen x="0" y="25" width="1680" height="979" />
+    </state>
+    <state x="505" y="240" width="670" height="676" key="search.everywhere.popup/0.25.1680.979@0.25.1680.979" timestamp="1615300854670" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Percolation.java</url>
+          <line>247</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="Percolation" fieldName="wquUF" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
