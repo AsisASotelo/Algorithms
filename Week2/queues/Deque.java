@@ -4,6 +4,8 @@
  *  Description: Deqeue.java
  **************************************************************************** */
 
+import edu.princeton.cs.algs4.StdIn;
+
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
@@ -82,16 +84,48 @@ public class Deque<Item> implements Iterable<Item> {
         if (N == 0) {
             throw new NoSuchElementException();
         }
-        Item item = last.item();
+        Node current = first;
+        while (current.next.next != null) {
+            current = current.next;
+        }
+        last = current;
+        current = current.next;
+        N--;
+        return current.item;
 
     }
 
     // return an iterator over items in order from front to back
-    public Iterator<Item> iterator()
+    public Iterator<Item> iterator() {
+        return new ListIterator();
+    }
+
+    private class ListIterator implements Iterator<Item> {
+        private Node current = first;
+
+        public boolean hasNext() {
+            return current != null;
+        }
+
+        public void remove() {
+
+        }
+
+        public Item next() {
+            Item item = current.item;
+            current = current.next;
+            return item;
+        }
+    }
 
     // unit testing (required)
 
     public static void main(String[] args) {
+        Deque<String> q = new Deque<String>();
+
+        while (!StdIn.isEmpty()) {
+
+        }
 
     }
 }
